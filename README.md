@@ -4,5 +4,6 @@
 - 此页面主要记录对mc模组的开发，以及他人的提议。
 -
 ## 当前页面
-- 你位于根目录，点击左上角的[ ![branches](https://github.com/hyplant/MC_mod-feedback/blob/main/资源/图片/主页/分支.jpg?raw=1) ](https://github.com/hyplant/MC_mod-feedback/branches)图标换到你想要的分枝
-- ↣若切换后无法找到你想要的内容，请刷新页面
+- 这是一个更多合成表的模组
+- 可以让你带生存模式，或创造模式中获取一些不可获获得的技术性方块
+- 在抖音查看介绍：
