@@ -66,7 +66,7 @@ title: 标题
 
 - 这些内容可以套娃使用，例如
 [ ![branches](https://user-images.githubusercontent.com/86937725/141673722-201261fe-210d-4b83-bf2d-858549f67cf7.gif) ](https://github.com/hyplant/MC_mod-feedback/branches)，会形成一张带有超链接的图片
-- 除此之外，在文章链接后面加上#段落，例如https://github.com/hyplant/MC_mod-feedback/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_0.md#一项内容 
+- 除此之外，在文章链接后面加上#段落，例如https://github.com/hyplant/MC_mod-feedback#当前页面 
 可以生成一个，直接链接到某一段落的链接
 最后使用三条杠结尾
 ---
