@@ -4,5 +4,5 @@
 - 此页面主要记录对mc模组的开发，以及他人的提议。
 -
 ## 当前页面
-- 你位于根目录，点击左上角的[ ![branches](https://user-images.githubusercontent.com/86937725/141673722-201261fe-210d-4b83-bf2d-858549f67cf7.gif) ](https://github.com/hyplant/MC_mod-feedback/branches)图标换到你想要的分枝
+- 你位于根目录，点击左上角的[ ![branches](https://github.com/hyplant/MC_mod-feedback/blob/main/资源/图片/主页/分支.jpg?raw=1) ](https://github.com/hyplant/MC_mod-feedback/branches)图标换到你想要的分枝
 - ↣若切换后无法找到你想要的内容，请刷新页面
