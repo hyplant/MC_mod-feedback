@@ -9,3 +9,4 @@
 # 打开链接
 - [前往提议](https://github.com/hyplant/MC_mod-feedback/issues)
 - [前往更新](https://github.com/hyplant/MC_mod-feedback/actions)
+- [前往下载](https://github.com/hyplant/MC_mod-feedback/tree/翻译ibe/下载区)
