@@ -2,9 +2,9 @@ blank_issues_enabled: true
 
 contact_links:
 
-  - name: GitHub Community Support
+  - name: 提议格式(新手必看)
 
-    url: https://github.community/
+    url: https://github.com/hyplant/MC_mod-feedback/issues/1
 
     about: Please ask and answer questions here.
 
