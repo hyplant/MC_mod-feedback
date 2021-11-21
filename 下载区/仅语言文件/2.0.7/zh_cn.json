@@ -118,4 +118,5 @@
   "ibeeditor.message.no_target_found": "没有可编辑的%s，掉落物 等实体(无法被选中) 和 非方块实体 无法编辑，方块状态请使用调试棒(/give @s minecraft:debug_stick)",
   "ibeeditor.message.error_generic": "模组产生1个错误，查看日志来了解具体错误，你可以将错误报告给模组作者。",
   "ibeeditor.message.not_implemented": "你想使用的%s编辑功能尚未实现，在未来的版本可能会加入"
-}
+},
+_
