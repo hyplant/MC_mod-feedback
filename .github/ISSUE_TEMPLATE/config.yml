@@ -6,7 +6,13 @@ contact_links:
 
     url: https://github.com/hyplant/MC_mod-feedback/issues/1
 
-    about: Please ask and answer questions here.
+    about: 了解提议的一些格式，可以帮助您更好的发布提议
+
+  - name: 试试下载
+
+    url: https://github.com/hyplant/MC_mod-feedback/issues/1
+
+    about: 正在寻找下载链接，点击这里
 
   - name: GitHub Security Bug Bounty
 
