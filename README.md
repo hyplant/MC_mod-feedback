@@ -8,5 +8,5 @@
 - 这个页面记录了对ibe的翻译。对于翻译不恰当，你可以进行提议
 # 打开链接
 - [前往提议](https://github.com/hyplant/MC_mod-feedback/issues)
-- [前往更新](https://github.com/hyplant/MC_mod-feedback/actions)
-- [前往下载](https://github.com/hyplant/MC_mod-feedback/tree/翻译ibe/下载区)
+- [下载发行版](https://github.com/hyplant/MC_mod-feedback/releases)
+- [前往下载区](https://github.com/hyplant/MC_mod-feedback/tree/翻译ibe/下载区)
